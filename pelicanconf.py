@@ -12,7 +12,7 @@ DIRECT_TEMPLATES = \
     (('index','tags','categories','authors','archives'))
 
 
-STATIC_PATHS = ['articles','images']
+STATIC_PATHS = ['articles','pages']
 ARTICLE_PATHS = ['articles']
 PAGE_PATHS = ['pages']
 

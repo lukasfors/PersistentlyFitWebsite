@@ -41,7 +41,7 @@ MENUITEMS = (\
 DELETE_OUTPUT_DIRECTORY = True
 
 
-THEME = 'Flex'
+THEME = 'pfit_theme'
 
 AUTHOR = u'Lukas'
 SITENAME = u'PersistentlyFit'

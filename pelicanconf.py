@@ -33,6 +33,7 @@ DEFAULT_CATEGORY = 'Articles'
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (\
+        ('Home','/index.html'),\
         ('About','/pages/about.html'),\
         )
 

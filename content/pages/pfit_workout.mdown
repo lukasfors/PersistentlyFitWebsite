@@ -1,0 +1,9 @@
+Title: PersistentlyFit Workout
+slug:pfit_workout
+Date: 2015-11-26 13:53
+Author: Lukas
+
+
+The PersistentlyFit workout teaches basic techniques for core physical fitness,
+and mental techniques for persistence.
+

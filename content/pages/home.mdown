@@ -1,0 +1,6 @@
+Title:
+slug:home
+URL:
+save_as: index.html
+
+<img id="home-image" src="{filename}images/pushup_man.svg"/>

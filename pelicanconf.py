@@ -34,6 +34,7 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (\
         ('Home','/index.html'),\
+        ('Workout','/pages/pfit_workout.html'),\
         ('About','/pages/about.html'),\
         )
 

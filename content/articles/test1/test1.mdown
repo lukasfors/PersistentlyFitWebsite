@@ -1,6 +1,7 @@
 Title: Some title
 Date: 2015-11-26 12:00
 Author: Lukas
+status: draft
 
 
 # Test page

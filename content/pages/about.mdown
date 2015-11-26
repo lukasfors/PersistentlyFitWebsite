@@ -3,6 +3,7 @@ Date: 2015-11-26 12:00
 Author: Lukas
 
 Hi, I am Lukas Forsberg, and this is PersistentlyFit.
-To contact me, send an email to lukas [-at-] persistentlyfit [-dot-] com .
+
+To contact me, send an email to lukas [-at-] persistentlyfit [-dot-] com
 
 Lukas.

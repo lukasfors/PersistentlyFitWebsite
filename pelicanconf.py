@@ -92,4 +92,4 @@ DEFAULT_PAGINATION = False
 NUM_RECENT_ARTICLES = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = False

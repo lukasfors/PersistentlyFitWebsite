@@ -7,7 +7,7 @@ Author: Lukas
 The PersistentlyFit Workout system will allow you to become fit by performing a few simple exercises regularly.
 
 <div style="text-align:center; margin:0 auto;">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5UzIucX_Lv0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/wUPMMW0xK_s?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The best workout is the one you keep doing, regularly. This is the only way to see real results. The PersistentlyFit workout is designed so that you can never have any excuses. You can do it anywhere. No special equipment is required, and no prior experience is assumed. Doing it regularly is just a bit harder than brushing your teeth.

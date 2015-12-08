@@ -20,7 +20,9 @@ and mental techniques for persistence.
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <div style="text-align:center; margin:0 auto;">
-<a target="_blank" class="gumroad-button" href="https://gum.co/XMbQx">Buy Now</a>
+<a target="_blank" class="gumroad-button" href="https://gum.co/XMbQx">Buy on Gumroad</a>
+<a class="buy_button" href="https://www.udemy.com/persistentlyfit-workout/?couponCode=PFIT_WEBSITE">
+Buy on Udemy</a>
 </div>
 
 The course structure
@@ -78,8 +80,3 @@ If you can walk and sit, most likely you can do this workout. If you are the kin
 
 If you have any special conditions or other doubts, you should consult a doctor or a professional physician.
 
-
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<div style="text-align:center; margin:0 auto;">
-<a target="_blank" class="gumroad-button" href="https://gum.co/XMbQx">Buy Now</a>
-</div>

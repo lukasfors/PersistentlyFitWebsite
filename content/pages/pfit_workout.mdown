@@ -21,7 +21,7 @@ and mental techniques for persistence.
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <div style="text-align:center; margin:0 auto;">
 <a target="_blank" class="gumroad-button" href="https://gum.co/XMbQx">Buy on Gumroad</a>
-<a class="buy_button" href="https://www.udemy.com/persistentlyfit-workout/?couponCode=PFIT_WEBSITE">
+<a class="buy_button" href="https://www.udemy.com/persistentlyfit-workout/?couponCode=PFIT_WEBSITE10">
 Buy on Udemy</a>
 </div>
 
